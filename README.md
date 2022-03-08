@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abla</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate software engineer | Full stack developer from Tunisia</h3>
 
-- 👯 I’m looking to collaborate on **Innovative projects**
+- 👯 I’m looking to collaborate on **Innovative and open source projects**
 
 - 👨‍💻 You can check my online resume at [https://abla-ammami.com/](https://abla-ammami.com/)
 

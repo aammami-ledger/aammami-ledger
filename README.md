@@ -3,8 +3,6 @@
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 
-- 🤝 I’m looking for help with **Open source projects**
-
 - 👨‍💻 You can check my online resume at [https://abla-ammami.com/](https://abla-ammami.com/)
 
 - 💬 Ask me about **React, javascript and css**
